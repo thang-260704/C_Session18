@@ -10,11 +10,11 @@ typedef struct {
 } Dish;
 
 Dish menu[MAX_MENU_SIZES] = {
-    {1, "Pizza", 150.0},
-    {2, "Burger", 50.0},
-    {3, "Pasta", 100.0},
-    {4, "Salad", 80.0},
-    {5, "Sushi", 200.0}
+    {1, "BanhMi", 150.0},
+    {2, "Pho", 50.0},
+    {3, "MienGa", 100.0},
+    {4, "RauXao", 80.0},
+    {5, "ComRang", 200.0}
 };
 
 int menuSize = 5;
